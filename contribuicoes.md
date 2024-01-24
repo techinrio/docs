@@ -34,7 +34,9 @@ Então você quer contribuir com um projeto no nosso GitHub, é simples assim:
 - Contribua e Trabalhe na Issue: Escolha uma issue que lhe interesse, comente nela para que outros saibam que você está trabalhando nela e, em seguida, mergulhe nas linhas de código!
 - Abra uma Pull Request (PR): Assim que terminar, abra uma PR para que possamos revisar suas contribuições. Estamos ansiosos para ver o seu trabalho!
 
-Legal, agora sabemos como contribuir em nossos projetos, mas aqui no GitHub temos algumas áreas onde podemos receber sua ajuda:
+Legal, agora sabemos como contribuir em nossos projetos, mas aqui no GitHub temos algumas áreas onde podemos receber sua ajuda!
+
+## Contribuindo na moderação dos projetos
 
 ### Abertura de Issues:
 
