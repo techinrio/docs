@@ -27,7 +27,7 @@ Além de contribuir para os projetos, incentivamos a ajuda mútua. Se você enco
 
 ## Como contribuir em projetos no GitHub
 
-É fácil começar a contribuir. Basta seguir esses passos simples:
+Então você quer contribuir com um projeto no nosso GitHub, é simples assim:
 
 - Escolha um Projeto: Navegue pelos nossos repositórios no GitHub, incluindo o nosso site e documentações.
 - Explore as Issues Abertas: Dentro de cada repositório, você encontrará uma lista de issues abertas. Estas são tarefas ou sugestões específicas para as quais precisamos de ajuda.
