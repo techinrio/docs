@@ -1,5 +1,7 @@
 # Como contribuir na Tech In Rio
 
+> VOLTAR PARA [README.md](README.md)
+
 Preciso programar para contribuir?
 NÃO MESMO!
 
@@ -38,11 +40,11 @@ Legal, agora sabemos como contribuir em nossos projetos, mas aqui no GitHub temo
 
 ## Contribuindo na moderação dos projetos
 
-### Abertura de Issues:
+### Abertura de Issues
 
 Propósito: As issues são usadas para rastrear tarefas, melhorias, bugs e discussões relacionadas ao projeto.
 
-#### Como Abrir uma Issue:
+#### Como Abrir uma Issue
 
 - Vá até a página do repositório no GitHub.
 - Clique na guia "Issues".
